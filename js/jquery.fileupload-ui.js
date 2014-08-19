@@ -19,10 +19,10 @@
         define([
             'jquery',
             'bi-tmpl',
-            './jquery.fileupload-image',
-            './jquery.fileupload-audio',
-            './jquery.fileupload-video',
-            './jquery.fileupload-validate'
+            'bi-image',
+            'bi-audio',
+            'bi-video',
+            'bi-validate'
         ], factory);
     } else {
         // Browser globals:
