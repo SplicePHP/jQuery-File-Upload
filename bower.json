@@ -49,7 +49,7 @@
   "dependencies": {
     "jquery": ">=1.6",
     "blueimp-tmpl": ">=2.5.3",
-    "blueimp-load-image": ">=1.11.0",
+    "blueimp-load-image": "https://github.com/splicephp/javascript-load-image.git#master",
     "blueimp-canvas-to-blob": ">=2.1.0"
   },
   "main": [
