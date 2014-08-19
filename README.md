@@ -1,4 +1,4 @@
-##Please not this library is a fork of the blueimp/javascript-file-upload created with some modifications for personal config. Please use the original repository instead because the stability of this library can not be garenteed since is subject to the needs of my application.
+##Please note. This library is a fork of the blueimp/javascript-file-upload created with some modifications for personal config. Please use the original repository instead because the stability of this library can not be garenteed since is subject to the needs of my application.
 
 The primary reason for this fork is to get requirejs to play nice with my general projects.
 Only the define methods have been modified in order to allow for propper loading of dependencies.
