@@ -18,12 +18,12 @@
         // Register as an anonymous AMD module:
         define([
             'jquery',
-            'load-image',
-            'load-image-meta',
-            'load-image-exif',
-            'load-image-ios',
-            'canvas-to-blob',
-            './jquery.fileupload-process'
+            'bi-load-image',
+            'bi-load-image-meta',
+            'bi-load-image-exif',
+            'bi-load-image-ios',
+            'bi-canvas-to-blob',
+            'bi-fileupload-process'
         ], factory);
     } else {
         // Browser globals:
